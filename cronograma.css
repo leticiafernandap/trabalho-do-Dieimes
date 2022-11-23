@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+td{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.table{
+    background-color: lightseagreen;
+    
+}
+.faixa{
+    background-color: darkcyan;
+    height: 30px;
+}
